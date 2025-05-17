@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pinkdrip — Кав'ярня</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+<h1>Pinkdrip</h1>
+<nav>
+<a href="#about">Про нас</a>
+<a href="#contact">Контакти</a>
+</nav>
+</header>
+
+<section class="hero">
+<h2>Натхнення з першої чашки</h2>
+<p>Затишна атмосфера, свіже обсмаження та любов до кожного зернятка</p>
+</section>
+
+<section id="about" class="about">
+<h2>Про нас</h2>
+<p>Pinkdrip — це місце, де кава стає мистецтвом. Ми цінуємо якість, затишок і душевну атмосферу. Завітайте, щоб зарядитися натхненням і теплом у самому серці міста!</p>
+</section>
+
+<section id="contact" class="contact">
+<h2>Контакти</h2>
+<p>Адреса: вул. Проспект Європейського Союзу 37, м. Київ</p>
+<p>Графік роботи: Пн-Нд, 8:00 – 21:00</p>
+<p>Телефон: <a href="tel:+380 97 360 03 90">+38 (097) 360-03-90</a></p>
+<p>Instagram: <a href="#">https://www.instagram.com/pinkdrip37?igsh=MWpjb2tsYjk0ZjRrcw==</a></p>
+</section>
+
+<footer>
+<p>&copy; 2025 Pinkdrip. Всі права захищені.</p>
+</footer>
+</body>
+</html>
